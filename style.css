@@ -1,0 +1,73 @@
+body {
+    overflow-x: hidden;
+    text-decoration: none;
+  }
+  
+  .row {
+    margin: 0px;
+  }
+  
+  .container {
+    margin: auto;
+  }
+  
+  .row > * {
+    margin: 0px;
+  }
+  
+  .jumbotron {
+    padding-top: 8rem;
+  
+    background-image: linear-gradient(#0f0f0f,#a58146);
+  }
+  
+  #project {
+    background-color: #a58146;
+  }
+  
+  section {
+    padding-top: 9rem;
+  }
+  
+  #about p {
+    margin-top: 50px;
+  }
+  
+  #about svg {
+    margin-top: 150px;
+  }
+  
+  .project-group {
+    margin-top: 50px;
+  }
+  
+  #contact svg {
+    margin-top: 150px;
+  }
+  
+  footer p {
+    margin-bottom: 187px;
+  }
+  
+  .contact-section .box .icon {
+    width: 100px;
+    height: 100px;
+    background: #ffd900;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    font-size: 30px;
+  }
+  
+  .box head a {
+    color: rgb(253, 245, 245);
+    text-decoration: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
